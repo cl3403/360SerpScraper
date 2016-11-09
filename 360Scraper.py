@@ -1,3 +1,5 @@
+#!/usr/bin/python
+# -*- coding: cp936 -*-
 import requests
 from bs4 import BeautifulSoup
 from random import choice
